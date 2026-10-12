@@ -16,6 +16,10 @@ talking. What comes out of it is free tools.
 - **[agent-cost](https://github.com/thanathe/agent-cost)**: see what your coding agents actually cost. Logs credits, tokens and time for every Claude Code, Codex and CodeBuddy turn to a local ledger, then shows it in a dashboard or monthly report. No server, no telemetry.
 - **[meegle-buddy](https://github.com/thanathe/meegle-buddy)**: a Claude skill for Feishu / Lark Project (Meegle) that discovers your spaces and fields, then helps anyone log time and open cards.
 
+## Say hi
+
+✉️ [hello@barkbrainlab.com](mailto:hello@barkbrainlab.com) · 🌐 [barkbrainlab.com](https://barkbrainlab.com)
+
 ## Feed the dogs
 
 If something here saved you time:
