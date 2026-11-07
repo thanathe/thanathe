@@ -9,7 +9,7 @@ talking. What comes out of it is free tools.
 | | |
 |---|---|
 | ☀️ **[Pang Everyday](https://barkbrainlab.com/pang-everyday)** | Browser extension for creators. Sort any TikTok or Instagram profile by outlier score, save the clips that took off with your notes, and split TikTok captions into Hook / Body / CTA. Everything stays in your browser. [Free on Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/pang-everyday-%E2%80%94-find-what/fkagmfllepggimpgnjhejjnlabnnjdda) |
-| 👃 **[Sniff](https://sniff.barkbrainlab.com)** | Desktop git client for macOS with a good nose: commit graph, PR reviews, issues and workspaces. Optional AI writes commit messages and reviews PRs through any OpenAI-compatible endpoint, and nothing gets posted until you press Post. Free. |
+| 🐾 **[Sniff](https://sniff.barkbrainlab.com)** | Desktop git client for macOS with a good nose: commit graph, PR reviews, issues and workspaces. Optional AI writes commit messages and reviews PRs through any OpenAI-compatible endpoint, and nothing gets posted until you press Post. Free. |
 | 🪶 **[สำนักหอคอยขนนก](https://mu.loveiseveryday.com)** | Thai daily fortune: your day, lucky shirt colours, tarot, the Chinese calendar and lucky numbers. Every answer says which text it comes from. |
 
 ## Open source
